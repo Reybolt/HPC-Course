@@ -1,0 +1,6 @@
+Code run by Reynaldo Arteaga
+Environment variable UWHPSC is /Users/Rarteaga/Documents/CourseraCourses/HighPerformanceComputing2014/uwhpsc
+Environment variable MYHPSC is /Users/Rarteaga/Documents/CourseraCourses/HighPerformanceComputing2014/HPC-Course/
+Imported numpy ok
+Imported matplotlib ok
+Imported pylab ok
