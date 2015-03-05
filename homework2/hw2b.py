@@ -1,8 +1,7 @@
 
 
 """
-Demonstration module for quadratic interpolation.
-Update this docstring to describe your code.
+Demonstration module for polynomial interpolation of order 2, 3, and n-1.
 Modified by: Reynaldo Arteaga
 """
 
